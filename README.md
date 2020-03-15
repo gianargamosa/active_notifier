@@ -1,8 +1,6 @@
 # ActionNotifier
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/action_notifier`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+It's a framework for dealing with notifying user through in browser notification or native notifications.
 
 ## Installation
 
@@ -19,10 +17,6 @@ And then execute:
 Or install it yourself as:
 
     $ gem install action_notifier
-
-## Usage
-
-TODO: Write usage instructions here
 
 ## Development
 
